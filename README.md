@@ -6,4 +6,4 @@ Desenvolvi este site, como sendo meu curriculo pessoal
 
 foi desenvolvido na aula de web basico em html e css
 
-Acesse [aqui](https://anavick.github.io/curriculo/)
+Acesse [aqui](https://anavick.github.io/curriculo.github.io)
